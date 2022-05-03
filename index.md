@@ -1,3 +1,5 @@
+<font face="cursive"></font>
+
 # QLANET -量子陣取り-
 
 ## 概要
