@@ -1,6 +1,9 @@
-<font face="cursive"></font>
-
-# QLANET -量子陣取り-
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+title: QLANET -量子陣取り-
+layout: home
+---
 
 ## 概要
 Qlanetは9つの量子惑星を巡る二人対戦の陣取りゲームです。  
