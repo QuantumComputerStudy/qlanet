@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: QLANET -量子陣取り-
 layout: home
+list_title: 更新情報
 ---
 
 ## 概要
@@ -72,11 +73,3 @@ Qlanetは9つの量子惑星を巡る二人対戦の陣取りゲームです。
 
 ## ゲームデザイナー
 サークルQlanet
-
-
----
-<footer>
-<div class="container">
-    <p>Copyright © 2022 サークルQlanet All Rights Reserved. </p>
-</div>
-</footer>
