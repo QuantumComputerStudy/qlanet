@@ -22,8 +22,8 @@ title: QLANET
 email: qlanet2114@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Copyright © 2022 サークルQlanet All Rights Reserved.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+base_url: /qlanet # the subpath of your site, e.g. /blog
+#url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: qlanet_game
 #github_username:  jekyll
 
@@ -40,12 +40,14 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
+exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
+  - Gemfile
+  - Gemfile.lock
+  - .gitignore
+  - README.md
 #   - node_modules/
 #   - vendor/bundle/
 #   - vendor/cache/
