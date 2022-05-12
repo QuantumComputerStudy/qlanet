@@ -28,7 +28,7 @@ twitter_username: qlanet_game
 #github_username:  jekyll
 
 # Build settings
-theme: minima
+# theme: minima
 theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
