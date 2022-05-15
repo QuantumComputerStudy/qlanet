@@ -1,6 +1,10 @@
-<font face="cursive"></font>
-
-# QLANET -量子陣取り-
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+title: "QLANET -量子陣取り-"
+#layout: home
+#list_title: 更新情報
+---
 
 ## 概要
 Qlanetは9つの量子惑星を巡る二人対戦の陣取りゲームです。  
@@ -46,14 +50,14 @@ Qlanetは9つの量子惑星を巡る二人対戦の陣取りゲームです。
 
 | ゲート | 効果 | コスト | カード |
 | ---- | ---- | ---- | ---- |
-| X   |   | 6 | <img src="https://github.com/QuantumComputerStudy/QuantumEncamp/blob/dev/Assets/Resources/X.png?raw=true"> |
-| H   |   | 3 | <img src="https://github.com/QuantumComputerStudy/QuantumEncamp/blob/dev/Assets/Resources/H.png?raw=true"> |
-| Z   |   | 2 | <img src="https://github.com/QuantumComputerStudy/QuantumEncamp/blob/dev/Assets/Resources/Z.png?raw=true"> |
-| M   |   | 10 | <img src="https://github.com/QuantumComputerStudy/QuantumEncamp/blob/dev/Assets/Resources/M.png?raw=true"> |
-| CX0 |   | 2 | <img src="https://github.com/QuantumComputerStudy/QuantumEncamp/blob/dev/Assets/Resources/CX0.png?raw=true"> |
-| CX1 |   | 2 | <img src="https://github.com/QuantumComputerStudy/QuantumEncamp/blob/dev/Assets/Resources/CX1.png?raw=true"> |
-| SW |   | 4 | <img src="https://github.com/QuantumComputerStudy/QuantumEncamp/blob/dev/Assets/Resources/SW.png?raw=true"> |
-| BM |   | 8 | <img src="https://github.com/QuantumComputerStudy/QuantumEncamp/blob/dev/Assets/Resources/BM.png?raw=true"> |
+| X   |   | 6 |  <img src="https://github.com/QuantumComputerStudy/qlanet/blob/main/assets/images/X.png?raw=true"> |
+| H   |   | 3 |  <img src="https://github.com/QuantumComputerStudy/qlanet/blob/main/assets/images/H.png?raw=true"> |
+| Z   |   | 2 |  <img src="https://github.com/QuantumComputerStudy/qlanet/blob/main/assets/images/Z.png?raw=true"> |
+| M   |   | 10 | <img src="https://github.com/QuantumComputerStudy/qlanet/blob/main/assets/images/M.png?raw=true"> |
+| CX0 |   | 2 |  <img src="https://github.com/QuantumComputerStudy/qlanet/blob/main/assets/images/CX0.png?raw=true"> |
+| CX1 |   | 2 |  <img src="https://github.com/QuantumComputerStudy/qlanet/blob/main/assets/images/CX1.png?raw=true"> |
+| SW |   | 4  |  <img src="https://github.com/QuantumComputerStudy/qlanet/blob/main/assets/images/SW.png?raw=true"> |
+| BM |   | 8  |  <img src="https://github.com/QuantumComputerStudy/qlanet/blob/main/assets/images/BM.png?raw=true"> |
 
 ### ゲームのコツ
 - ０陣営（１陣営）プレイヤーは０状態（1状態）の惑星にMゲートカードを使うことで確実に自分の領地にできます。  
@@ -68,12 +72,8 @@ Qlanetは9つの量子惑星を巡る二人対戦の陣取りゲームです。
 
 
 ## ゲームデザイナー
-サークルQlanet
-
+サークルQLANET
 
 ---
-<footer>
-<div class="container">
-    <p>Copyright © 2022 サークルQlanet All Rights Reserved. </p>
-</div>
-</footer>
+
+Copyright © 2022 サークルQLANET All Rights Reserved.
